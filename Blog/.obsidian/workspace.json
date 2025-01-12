@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "8a98f2698e46cf9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a2fb4050bdec541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb685cd1090b8a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/Reproducible Research in Computational Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reproducible Research in Computational Science"
+            }
+          },
+          {
+            "id": "2ba2c35af4ce4141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily log/2025/Jan/9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84049018bf4f85f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "01cd3a7b4cf64c89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59a2870563d9eec8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aaa2c79352ea7c5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "’",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1ffd065d1cc4c404",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f695b5bc722996a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8b9428636a7b748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c7b1066e0ba4441",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Posts/My dream static site generator.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for My dream static site generator"
+            }
+          },
+          {
+            "id": "06ea21275ac412bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Links/Starting a link blog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Starting a link blog"
+            }
+          },
+          {
+            "id": "bdfd18b2b8b9fc4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d398169a187a8c01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Links/Starting a link blog.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Starting a link blog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2ba2c35af4ce4141",
+  "lastOpenFiles": [
+    "Links/code2prompt.md",
+    "Daily log/2025/Jan/9.md",
+    "Daily log/2025/Jan/6.md",
+    "Daily log/2025/Jan/8.md",
+    "dev.md",
+    "Posts/My dream static site generator.md",
+    "Daily log/2021/Apr/28.md",
+    "Daily log/2021/Apr/24.md",
+    "Links/Could Disposable UI Solve Data Science's Low ROI Problem?.md",
+    "Links/dltHub.md",
+    "Links/Starting a link blog.md",
+    "Links/DataTalksClub data-engineering-zoomcamp.md",
+    "Links/Data Engineering 101.md",
+    "Links/AWS Certified Data Engineer Associate exam.md",
+    "Posts/Software engineering is table stakes.md",
+    "Links/Reproducible Research in Computational Science.md",
+    "Daily log/2024/Dec/31.md",
+    "Daily log/2024/Dec/30.md",
+    "Daily log/2025/Jan/4.md",
+    "Links/Come, Come, Whoever You Are.md",
+    "Daily log/2025/Jan/5.md",
+    "Quotes/Jan 2 2025.md",
+    "Quotes/Jan 4 2025.md",
+    "Untitled.md",
+    "Daily log/2025/Jan/2.md",
+    "Posts/The Pragmatic Programmer.md",
+    "Daily log/2017/Jan",
+    "Daily log/2017",
+    "images/duh.gif",
+    "images/fry-wtf.webp",
+    "Daily log/2016/Nov",
+    "images/rails-mvc.png",
+    "images",
+    "Daily log/2016/Sep",
+    "Daily log/2016/Aug",
+    "Daily log/2016",
+    "Daily log/2025/Jan",
+    "Daily log/2025"
+  ]
+}

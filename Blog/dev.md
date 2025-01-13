@@ -13,6 +13,9 @@
 - exclude certain dirs or files (e.g. this file)
 - pre-process images (optimize them for web, upload them somewhere?, use caption text)
 - pre-commit hooks (e.g. check for posts with no tags)
+	- check for duplicate slugs
+	- validate image references
+	- check internal link targets exist
 - preserve internal links
 - add external links to discussion
 	- HN

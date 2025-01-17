@@ -3,6 +3,8 @@ tags:
   - rails
   - mvc
   - web-development
+slug: rails
+date: 2016-09-05
 ---
 Ever wondered what your rails app is really doing? When I first started learning Rails it seemed like magic. I finally got started building some rails apps and couldn't believe I could get one up and running in 5 minutes. What is this magic? Needless to say there's a lot going on behind the scenes. I was living in blissful ignorance, building away and not worrying about how it all worked until it didn't anymore. When the error messages stopped making sense, I realized I should probably dig a little deeper and see what Rails' magic is made of. You don't have to be able to rebuild Rails or even add to it, but understanding it is at least a start and, IMO, important if you're going to try to build with it, if only because it makes debugging so much simpler. I've still got a long way to go, but these are some notes from my first encounter with Rails' machinery.
 

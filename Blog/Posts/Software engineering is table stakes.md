@@ -3,6 +3,8 @@ tags:
   - software-engineering
   - best-practices
   - data-engineering
+slug: table-stakes
+date: 2025-01-04
 ---
 I'm going through a course on data engineering on Coursera right now and it's been super interesting. I've been one of those software engineers who works with data for a while now, and while I feel like I have a solid grasp of software engineering, I often feel like I'm fumbling my way through the more data-processing heavy parts of my job. I get that feeling like there _must_ be a better way, but I don't know what it is, so I just put something together based on my paradigm as a software developer, and it often ends up being a sub-optimal solution.
 

@@ -2,6 +2,8 @@
 tags:
   - static-websites
   - blogging
+slug: website-reboot
+date: 2024-12-30
 ---
 
 Every year around this time I get an uncontrollable urge to redo my personal website. It's total madness but I don't know how to stop it. I am very inspired by other bloggers who are able to sustain a coherent presence on the internet for decades, and I want to be one of them. I always think I've narrowed down the problem and have a reasonable solution in mind, but really it's just the same cycle repeating itself.

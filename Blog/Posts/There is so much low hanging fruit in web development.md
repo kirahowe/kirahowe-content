@@ -3,6 +3,8 @@ tags:
   - web-development
   - static-websites
   - blogging
+slug: web-development
+date: 2021-04-24
 ---
 I am perpetually annoyed at how frustrating it is to build simple websites. Fair warning, this post is a bit ranty. I will explore technical solutions to these problems in a follow up post. But this one sets the stage first to explain why I spend so much time working on and thinking about things that appear to be easy, solved problems.
 

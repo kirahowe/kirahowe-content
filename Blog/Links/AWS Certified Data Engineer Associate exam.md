@@ -6,6 +6,7 @@ tags:
   - exams
   - aws
   - data-engineering
+date: 2024-12-31
 ---
 I always wonder how useful these types of exams are in practice. It often seems like they're mostly not very applicable to "real" work, but this one (and the associated Coursera courses) seem well constructed and practical.
 

@@ -5,6 +5,7 @@ tags:
   - data-engineering
   - community
   - education
+date: 2025-01-02
 ---
 I know reddit is a real mixed bag, but I often find good information there. It seems like it's one of the last remaining places on the internet that's not dominated by SEO-optimized or AI-generated hooey. I started the Coursera course associated with the [[AWS Certified Data Engineer Associate exam]] and was looking for recommendations for more learning resources when I came across this. I haven't started it yet so I'm not sure how good it is, but in the past I've had a great time learning a lot from these types of community-made resources. I'm looking forward to checking it out.
 

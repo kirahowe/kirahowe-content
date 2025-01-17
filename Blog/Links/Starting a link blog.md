@@ -5,6 +5,7 @@ tags:
   - blogging
   - web-development
   - note-taking
+date: 2025-01-02
 ---
 One of my favourite blogs on the internet is [Simon Willison's Weblog](https://simonwillison.net). I recently read this post of his about link blogging and love the idea. I occasionally post longer-form articles or essays on my blog, but usually only one or two per month, and I have a totally chaotic and unorganized web of ways to keep track of other interesting things I'm learning about or doing, but a lot of them are things I would love to share or connect with other people about.
 

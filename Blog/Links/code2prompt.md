@@ -6,6 +6,7 @@ tags:
   - tools
   - software-engineering
   - software
+date: 2025-01-09
 ---
 This is a really cool tool. I use LLMs extensively in my side projects with great success (my workplace is still investigating whether there are ways we can use them that will align with their privacy needs) and often simulate what this tool is purpose-built to do. I think it's going to save me even more time.
 

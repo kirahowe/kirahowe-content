@@ -1,4 +1,4 @@
 {
-  "format": "YYYY/MMM/D",
+  "format": "YYYY/M/MMMM D, YYYY",
   "folder": "Daily log"
 }

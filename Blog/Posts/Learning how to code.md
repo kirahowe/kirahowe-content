@@ -2,6 +2,8 @@
 tags:
   - learning
   - education
+slug: learning
+date: 2016-08-16
 ---
 Around this time last summer I started learning how to code. I had a wordpress website and wanted to customize it, then I got sucked into a rabbit hole and haven't really surfaced since. I realized I would only be able to make it so far coding in a box on a website with tutorials, as great as they are, and in the fall I decided to go all in. Now I'm starting my second gig as a "real" web developer and learning as fast as I can. As I go I'm learning as much about learning how to code as I am about coding itself. Here are a few of the most useful things I've learned so far and some tips if you want to get started learning how to code.
 

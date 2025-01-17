@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev.md",
+                "file": "Quotes/Jan 16 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dev"
+              "title": "Jan 16 2025"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posts/My dream static site generator.md",
+                "file": "Quotes/Jan 16 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My dream static site generator"
+              "title": "Backlinks for Jan 16 2025"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links/Starting a link blog.md",
+                "file": "Quotes/Jan 16 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Starting a link blog"
+              "title": "Outgoing links from Jan 16 2025"
             }
           },
           {
@@ -139,18 +139,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links/Starting a link blog.md"
+                "file": "Quotes/Jan 16 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Starting a link blog"
+              "title": "Outline of Jan 16 2025"
+            }
+          },
+          {
+            "id": "d76e869ac1f10666",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,43 +174,45 @@
   },
   "active": "fb685cd1090b8a27",
   "lastOpenFiles": [
-    "Links/Reproducible Research in Computational Science.md",
-    "Untitled.canvas",
-    "Daily log/2025/Jan/9.md",
-    "Links/code2prompt.md",
-    "Daily log/2025/Jan/6.md",
-    "Daily log/2025/Jan/8.md",
-    "dev.md",
+    "Quotes/Jan 4 2025.md",
+    "Quotes/Jan 2 2025.md",
+    "Quotes/Jan 16 2025.md",
+    "Daily log/2025/1/January 16, 2025.md",
+    "Links/core.async.flow.md",
+    "Posts/Building a fast command-line app with Clojure.md",
+    "Posts/Yet another website reboot.md",
+    "Posts/What your rails app does behind the scenes.md",
+    "Posts/There is so much low hanging fruit in web development.md",
+    "Posts/The Pragmatic Programmer.md",
+    "Posts/Software engineering is table stakes.md",
+    "Posts/Overcoming perfectionism.md",
     "Posts/My dream static site generator.md",
-    "Daily log/2021/Apr/28.md",
-    "Daily log/2021/Apr/24.md",
-    "Links/Could Disposable UI Solve Data Science's Low ROI Problem?.md",
-    "Links/dltHub.md",
+    "Posts/Learning how to code.md",
+    "Posts/How to set up your own nextcloud server.md",
+    "Posts/Ethics are missing from software development.md",
+    "Posts/Enum vs. Active Record any?.md",
+    "Posts/Benefits of group learning.md",
+    "Posts/Becoming a software developer.md",
+    "Posts/BarCamp Philly 2020.md",
     "Links/Starting a link blog.md",
+    "Links/Reproducible Research in Computational Science.md",
+    "Links/dltHub.md",
     "Links/DataTalksClub data-engineering-zoomcamp.md",
     "Links/Data Engineering 101.md",
-    "Links/AWS Certified Data Engineer Associate exam.md",
-    "Posts/Software engineering is table stakes.md",
-    "Daily log/2024/Dec/31.md",
-    "Daily log/2024/Dec/30.md",
-    "Daily log/2025/Jan/4.md",
-    "Links/Come, Come, Whoever You Are.md",
-    "Daily log/2025/Jan/5.md",
-    "Quotes/Jan 2 2025.md",
-    "Quotes/Jan 4 2025.md",
-    "Untitled.md",
-    "Daily log/2025/Jan/2.md",
-    "Daily log/2017/Jan",
+    "Links/Could Disposable UI Solve Data Science's Low ROI Problem?.md",
+    "Daily log/2021/2",
+    "Daily log/2021/3",
+    "Daily log/2021/1",
+    "Daily log/2020/12",
+    "Daily log/2020",
+    "Daily log/2025/1",
+    "Untitled.canvas",
+    "Daily log/2017/1",
     "Daily log/2017",
     "images/duh.gif",
     "images/fry-wtf.webp",
-    "Daily log/2016/Nov",
+    "Daily log/2016/11",
     "images/rails-mvc.png",
-    "images",
-    "Daily log/2016/Sep",
-    "Daily log/2016/Aug",
-    "Daily log/2016",
-    "Daily log/2025/Jan",
-    "Daily log/2025"
+    "images"
   ]
 }

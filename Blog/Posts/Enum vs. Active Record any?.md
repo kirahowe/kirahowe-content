@@ -4,6 +4,8 @@ tags:
   - ruby
   - web-development
   - databases
+slug: enum-active-record
+date: 2016-11-25
 ---
 Today at work I saw a really weird exception in prod. The code is in a Rails project using ActiveRecord and was something like this:
 

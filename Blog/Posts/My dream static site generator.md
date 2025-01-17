@@ -3,6 +3,7 @@ tags:
   - software
   - static-websites
 slug: yet-another-static-site-generator
+date: 2021-04-28
 ---
 I'm on the hunt for a simple tool to build simple websites. In my [[There is so much low hanging fruit in web development|last post]] I explained a bit about what I mean by that and why I find the existing options unsatisfactory. It got me thinking about what my requirements are. I think it's good in general to think up front about how software should work. It helps me quickly pass on existing solutions before wasting tons of time learning a new thing only to discover it can't do what I need (because I didn't know what I needed until it was too late). It also helps me make better software. 
 

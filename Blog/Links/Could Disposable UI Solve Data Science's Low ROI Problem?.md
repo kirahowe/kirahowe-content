@@ -6,6 +6,7 @@ tags:
   - web-development
   - llms
   - software-engineering
+date: 2025-01-08
 ---
 I found this article interesting. It's about how AI-generated web UIs might help add more value to the work data scientists do. It was also a little depressing to read as a software engineer, but a good reminder of what our role is morphing into within organizations.
 

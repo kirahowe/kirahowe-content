@@ -3,6 +3,8 @@ tags:
   - books
   - reading
   - pragmatic-programmer
+slug: pragmatic-programmer
+date: 2017-01-17
 ---
 This is a book by Andy Hunt and Dave Thomas about programming, but not in any particular language. It’s about all the other things that go along with programming, beyond just writing code. It’s a perfect book for beginners or people who don’t have a lot of experience working on a huge code base. You can learn pretty quickly how to write code that works, but writing code that is easy to read and maintain is whole other process. This book is a great place to start if you’re writing code that runs but is still sort of a mess. I feel like a lot of the advice would be common sense to someone with 5+ years of programming experience, but for beginners with a basic understanding of software development and coding this book is a perfect place to start learning how to think about the big picture.
 

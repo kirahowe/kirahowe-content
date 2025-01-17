@@ -5,6 +5,8 @@ tags:
   - education
   - meetups
   - group-learning
+slug: group-learning
+date: 2016-08-21
 ---
 Another week flew by and I'm still working on getting a pacman game up and running. There's a great community of developers in Montreal, though, and they often host coding events, like the weekly coffee and code sessions I go to with Les Pitonneux. Thanks to lots of wonderful, patient people I learn a lot about web development and get closer every session to building amazing products that people will love to use. Working with other people is essential if you're trying to learn how to code. If you've thought openly about learning programming, you have already been told to not do it alone. I'm not going to preach about why you need to do it, but I have some advice for when you do find a group of fellow programmers or learners.
 

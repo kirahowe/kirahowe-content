@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Storage is cheap, but not thinking about logging is expensive.md",
+                "file": "Quotes/Jan 2 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage is cheap, but not thinking about logging is expensive"
+              "title": "Jan 2 2025"
             }
           }
         ]
@@ -176,33 +176,34 @@
   },
   "active": "8931f83148447a2c",
   "lastOpenFiles": [
+    "Quotes/Jan 4 2025.md",
+    "Quotes/Jan 16 2025.md",
+    "Quotes/Jan 2 2025.md",
+    "Daily log/2025/1/January 21, 2025.md",
+    "Daily log/2025/1/January 16, 2025.md",
+    "Daily log/2025/1/January 9, 2025.md",
+    "Daily log/2025/1/January 8, 2025.md",
+    "Daily log/2025/1/January 4, 2025.md",
+    "Daily log/2025/1/January 6, 2025.md",
+    "Daily log/2025/1/January 2, 2025.md",
+    "Daily log/2025/2/February 19, 2025.md",
+    "Links/Data downtime.md",
     "Links/Starting a link blog.md",
+    "Daily log/2025/2/February 18, 2025.md",
+    "Links/Storage is cheap, but not thinking about logging is expensive.md",
+    "Daily log/2025/2",
     "Links/Reproducible Research in Computational Science.md",
     "Links/AWS Certified Data Engineer Associate exam.md",
     "templates/link.md",
     "Daily log/Invalid date.md",
-    "Links/Storage is cheap, but not thinking about logging is expensive.md",
     "templates",
-    "Daily log/2025/1/January 21, 2025.md",
     "Posts/Building a fast command-line app with Clojure.md",
-    "Daily log/2025/1/January 16, 2025.md",
-    "Quotes/Jan 16 2025.md",
-    "Quotes/Jan 4 2025.md",
-    "Quotes/Jan 2 2025.md",
     "Links/core.async.flow.md",
     "Posts/Yet another website reboot.md",
     "Posts/What your rails app does behind the scenes.md",
     "Posts/There is so much low hanging fruit in web development.md",
     "Posts/The Pragmatic Programmer.md",
     "Posts/Software engineering is table stakes.md",
-    "Posts/Overcoming perfectionism.md",
-    "Posts/My dream static site generator.md",
-    "Posts/Learning how to code.md",
-    "Posts/How to set up your own nextcloud server.md",
-    "Posts/Ethics are missing from software development.md",
-    "Posts/Enum vs. Active Record any?.md",
-    "Posts/Benefits of group learning.md",
-    "Posts/Becoming a software developer.md",
     "Daily log/2021/2",
     "Daily log/2021/3",
     "Daily log/2021/1",
@@ -214,7 +215,6 @@
     "Daily log/2017",
     "images/duh.gif",
     "images/fry-wtf.webp",
-    "Daily log/2016/11",
     "images/rails-mvc.png"
   ]
 }

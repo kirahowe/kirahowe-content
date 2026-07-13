@@ -1,0 +1,10 @@
+---
+type: quote
+author: Werner Vogels
+source: https://www.coursera.org/learn/intro-to-data-engineering/lecture/4hYeI/dataops#
+tags:
+  - aws
+  - systems
+---
+
+Everything fails all the time

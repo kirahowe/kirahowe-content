@@ -1,0 +1,10 @@
+---
+type: quote
+author: Joe Reis and Matt Housley
+source: https://www.redpanda.com/guides/fundamentals-of-data-engineering
+tags:
+  - data-engineering
+  - books
+---
+
+Data engineering is the process of designing, building, and maintaining systems within a business that enable the deriving of meaningful insights from operational data.

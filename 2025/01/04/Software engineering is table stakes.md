@@ -5,7 +5,6 @@ tags:
   - best-practices
   - data-engineering
 ---
-
 I'm going through a course on data engineering on Coursera right now and it's been super interesting. I've been one of those software engineers who works with data for a while now, and while I feel like I have a solid grasp of software engineering, I often feel like I'm fumbling my way through the more data-processing heavy parts of my job. I get that feeling like there _must_ be a better way, but I don't know what it is, so I just put something together based on my paradigm as a software developer, and it often ends up being a sub-optimal solution.
 
 There's an entirely new field emerging as a result of this proliferation software engineering roles that are mostly just about data processing, and it seems like the industry is settling on "data engineering" as a term for it. I've heard this type of work described in all kinds of other ways (data science, data analytics, ML engineering, ML ops, data ops). The interesting thing to me is that in all of these emerging disciplines, software engineering is just table stakes. It's assumed that to do any of these roles you can already read and write clean, maintainable, reliable, production-ready code. It's just interesting to me how the industry evolves.

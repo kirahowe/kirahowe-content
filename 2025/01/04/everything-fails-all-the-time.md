@@ -6,5 +6,4 @@ tags:
   - aws
   - systems
 ---
-
 Everything fails all the time

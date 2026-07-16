@@ -8,7 +8,6 @@ tags:
   - business
   - nocalls
 ---
-
 So, in enterprise sales, why do calls happen? Enterprises often default to calls for these 4 totally-solvable reasons:
 
 1. They don't understand what you offer.

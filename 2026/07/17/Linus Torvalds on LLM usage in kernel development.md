@@ -3,7 +3,12 @@ type: link
 date: 2026-07-17
 link: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/
 via: https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel
-tags: []
+tags:
+  - llms
+  - ai
+  - open-source
+  - software-development
+  - coding-agents
 ---
 The intersection of AI tooling and open source projects is interesting to me. I’ve also come around to the reality that LLM-powered coding agents like Claude code or codex are pretty clearly game changing when it comes to how software gets produced.
 

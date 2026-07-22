@@ -5,6 +5,9 @@ tags:
   - software
   - graalvm
   - cli
+previously:
+  - https://kiramclean.com/blog/building-a-fast-command-line-app-with-clojure/
+  - https://kiramclean.com/blog/building-a-fast-command-line-app-with-clojure
 ---
 
 Like most developers, I always have about a hundred ideas for little tools or apps I wish existed. Every once in a while I get the time and energy to magic one of them into existence. Clojure is my language of choice these days, but at first glance it's not super well suited to building little command-line apps (which is usually what I start with). Some things that make it not an obvious first choice:

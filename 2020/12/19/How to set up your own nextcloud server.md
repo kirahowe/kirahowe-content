@@ -4,6 +4,9 @@ tags:
   - ungoogle
   - nextcloud
   - self-hosting
+previously:
+  - https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server/
+  - https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server
 ---
 
 One of my goals for 2020 was to stop using Google's products. There are a lot of reasons why, but that's not the point of this post. I found out about Nextcloud last month and it turns out it's a great replacement for a lot of Google. I don't actually use all of its features, but I've migrated my calendar, reminders, contacts, bookmarks, video calls, photos, and news feeds and I'm really happy with it so far.

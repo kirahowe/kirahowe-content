@@ -4,6 +4,9 @@ tags:
   - ethics
   - software-engineering
   - best-practices
+previously:
+  - https://kiramclean.com/blog/ethics-are-missing-from-software-development/
+  - https://kiramclean.com/blog/ethics-are-missing-from-software-development
 ---
 
 There is something conspicuously missing from software development education. As developers, we learn all about how to write, organize, design, share, use, and test software, but the discussion of _how_ that software will actually be used and what it's impact on the world will be is usually an afterthought.

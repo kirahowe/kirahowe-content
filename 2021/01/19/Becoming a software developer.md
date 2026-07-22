@@ -3,6 +3,9 @@ slug: software-developer
 tags:
   - software-engineering
   - careers
+previously:
+  - https://kiramclean.com/blog/becoming-a-software-developer/
+  - https://kiramclean.com/blog/becoming-a-software-developer
 ---
 
 I get asked a lot for advice on becoming a software developer. I didn't study anything related to software in university, but now it's what I do for a living. I also spent about 3.5 years mentoring with [Lighthouse Labs](https://www.lighthouselabs.ca), a local web development bootcamp, and watched (and would like to believe at least in some cases, helped) hundreds of people of every age from wildly diverse backgrounds get jobs as software developers.

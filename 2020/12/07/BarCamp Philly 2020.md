@@ -4,6 +4,9 @@ tags:
   - conferences
   - virtual-conferences
   - discord
+previously:
+  - https://kiramclean.com/blog/barcamp-philly-2020/
+  - https://kiramclean.com/blog/barcamp-philly-2020
 ---
 
 I went to a virtual conference this weekend called [BarCamp Philly](http://2020.barcampphilly.org/) and had a really good time. The way they ran the conference was new to me. They somehow made the experience feel enjoyable and inspiring, which I thought was really impressive because I've had a hard time getting excited about virtual conferences this year. I've been to a dozen or so since everything got cancelled back in the spring, and this was the first time I stayed until the end and left feeling more energized than drained, fired up with lots of new ideas and inspiration and even a new acquaintance, which is super exciting to me because I find it _so hard_ to meet new people during a pandemic.

@@ -4,6 +4,9 @@ tags:
   - web-development
   - static-websites
   - blogging
+previously:
+  - https://kiramclean.com/blog/there-is-so-much-low-hanging-fruit-in-web-development/
+  - https://kiramclean.com/blog/there-is-so-much-low-hanging-fruit-in-web-development
 ---
 
 I am perpetually annoyed at how frustrating it is to build simple websites. Fair warning, this post is a bit ranty. I will explore technical solutions to these problems in a follow up post. But this one sets the stage first to explain why I spend so much time working on and thinking about things that appear to be easy, solved problems.

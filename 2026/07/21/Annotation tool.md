@@ -2,6 +2,7 @@
 type: tool
 date: 2026-07-21
 link: https://tools.kirahowe.com/annotate/
+source: https://github.com/kirahowe/tools/tree/main/tools/annotate
 tags:
   - ai
   - coding-agents

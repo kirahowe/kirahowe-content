@@ -11,6 +11,8 @@ tags:
   - personal
   - documentation
 ---
+![[screenshot-desktop.png]]
+
 One of the main ways I work with AI since I had a baby 5 months ago is prompting [genies](https://newsletter.pragmaticengineer.com/p/tdd-ai-agents-and-coding-with-kent) from my phone while I'm naptrapped or breastfeeding (did you know newborns feed for ~5 hours per day?! I did not). It’s very sweet and cozy napping with a baby but eventually also boring. 
 
 Anyway it’s very cumbersome to review code when building things this way, but I decided that’s mostly fine since for a lot of little personal utilities I have it build I don't really care whether the code is particularly good or not (although I do find lately it writes perfectly passable Clojure, still my language of choice in this age of AI).

@@ -4,6 +4,7 @@ tags:
   - society
   - personal
 previously:
+  - /blog/america-is-a-scam
   - https://kiramclean.com/blog/america-is-a-scam/
   - https://kiramclean.com/blog/america-is-a-scam
 ---

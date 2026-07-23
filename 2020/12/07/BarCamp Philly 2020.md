@@ -5,6 +5,7 @@ tags:
   - virtual-conferences
   - discord
 previously:
+  - /blog/barcamp-philly-2020
   - https://kiramclean.com/blog/barcamp-philly-2020/
   - https://kiramclean.com/blog/barcamp-philly-2020
 ---

@@ -5,6 +5,7 @@ tags:
   - software-engineering
   - best-practices
 previously:
+  - /blog/ethics-are-missing-from-software-development
   - https://kiramclean.com/blog/ethics-are-missing-from-software-development/
   - https://kiramclean.com/blog/ethics-are-missing-from-software-development
 ---

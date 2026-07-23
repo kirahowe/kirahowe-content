@@ -4,6 +4,7 @@ tags:
   - software-engineering
   - careers
 previously:
+  - /blog/becoming-a-software-developer
   - https://kiramclean.com/blog/becoming-a-software-developer/
   - https://kiramclean.com/blog/becoming-a-software-developer
 ---

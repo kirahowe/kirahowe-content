@@ -4,6 +4,7 @@ tags:
   - reflections
   - year-notes
 previously:
+  - /blog/2020-year-in-review
   - https://kiramclean.com/blog/2020-year-in-review/
   - https://kiramclean.com/blog/2020-year-in-review
 ---

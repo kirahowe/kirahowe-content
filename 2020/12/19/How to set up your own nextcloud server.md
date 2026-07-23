@@ -5,6 +5,7 @@ tags:
   - nextcloud
   - self-hosting
 previously:
+  - /blog/how-to-set-up-your-own-nextcloud-server
   - https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server/
   - https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server
 ---

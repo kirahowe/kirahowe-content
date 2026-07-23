@@ -4,6 +4,7 @@ tags:
   - testing
   - ci
 previously:
+  - /blog/how-to-set-up-codecov-for-a-clojure-deps-project
   - https://kiramclean.com/blog/how-to-set-up-codecov-for-a-clojure-deps-project/
   - https://kiramclean.com/blog/how-to-set-up-codecov-for-a-clojure-deps-project
 ---

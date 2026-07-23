@@ -4,6 +4,7 @@ tags:
   - religion
   - personal
 previously:
+  - /blog/an-atheist-tries-religion
   - https://kiramclean.com/blog/an-atheist-tries-religion/
   - https://kiramclean.com/blog/an-atheist-tries-religion
 ---

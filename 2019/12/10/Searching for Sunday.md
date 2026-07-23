@@ -4,6 +4,7 @@ tags:
   - faith
   - church
 previously:
+  - /blog/searching-for-sunday
   - https://kiramclean.com/blog/searching-for-sunday/
   - https://kiramclean.com/blog/searching-for-sunday
 ---

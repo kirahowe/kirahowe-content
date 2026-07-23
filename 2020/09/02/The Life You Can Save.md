@@ -4,6 +4,7 @@ tags:
   - ethics
   - effective-altruism
 previously:
+  - /blog/the-life-you-can-save
   - https://kiramclean.com/blog/the-life-you-can-save/
   - https://kiramclean.com/blog/the-life-you-can-save
 ---

@@ -4,6 +4,7 @@ tags:
   - pandemic
   - society
 previously:
+  - /blog/journalism-is-important
   - https://kiramclean.com/blog/journalism-is-important/
   - https://kiramclean.com/blog/journalism-is-important
 ---

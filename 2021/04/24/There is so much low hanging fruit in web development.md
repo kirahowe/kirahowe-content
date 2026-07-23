@@ -5,6 +5,7 @@ tags:
   - static-websites
   - blogging
 previously:
+  - /blog/there-is-so-much-low-hanging-fruit-in-web-development
   - https://kiramclean.com/blog/there-is-so-much-low-hanging-fruit-in-web-development/
   - https://kiramclean.com/blog/there-is-so-much-low-hanging-fruit-in-web-development
 ---

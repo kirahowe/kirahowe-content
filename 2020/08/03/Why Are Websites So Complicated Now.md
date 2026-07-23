@@ -5,6 +5,7 @@ tags:
   - static-websites
   - software
 previously:
+  - /blog/why-are-websites-so-complicated-now
   - https://kiramclean.com/blog/why-are-websites-so-complicated-now/
   - https://kiramclean.com/blog/why-are-websites-so-complicated-now
 ---

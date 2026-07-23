@@ -6,6 +6,7 @@ tags:
   - graalvm
   - cli
 previously:
+  - /blog/building-a-fast-command-line-app-with-clojure
   - https://kiramclean.com/blog/building-a-fast-command-line-app-with-clojure/
   - https://kiramclean.com/blog/building-a-fast-command-line-app-with-clojure
 ---

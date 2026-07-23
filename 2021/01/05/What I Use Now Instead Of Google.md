@@ -5,6 +5,7 @@ tags:
   - self-hosting
   - privacy
 previously:
+  - /blog/what-i-use-now-instead-of-google
   - https://kiramclean.com/blog/what-i-use-now-instead-of-google/
   - https://kiramclean.com/blog/what-i-use-now-instead-of-google
 ---

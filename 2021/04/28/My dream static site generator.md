@@ -4,6 +4,7 @@ tags:
   - software
   - static-websites
 previously:
+  - /blog/my-dream-static-website-generator
   - https://kiramclean.com/blog/my-dream-static-website-generator/
   - https://kiramclean.com/blog/my-dream-static-website-generator
 ---

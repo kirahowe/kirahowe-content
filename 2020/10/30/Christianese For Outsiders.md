@@ -4,6 +4,7 @@ tags:
   - church
   - religion
 previously:
+  - /blog/christianese-for-outsiders
   - https://kiramclean.com/blog/christianese-for-outsiders/
   - https://kiramclean.com/blog/christianese-for-outsiders
 ---

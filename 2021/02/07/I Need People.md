@@ -4,6 +4,7 @@ tags:
   - community
   - pandemic
 previously:
+  - /blog/i-need-people
   - https://kiramclean.com/blog/i-need-people/
   - https://kiramclean.com/blog/i-need-people
 ---

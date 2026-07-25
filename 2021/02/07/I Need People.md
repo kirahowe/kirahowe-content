@@ -4,6 +4,7 @@ tags:
   - community
   - pandemic
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2021-02-07-i-need-people.html
   - /blog/i-need-people
   - https://kiramclean.com/blog/i-need-people/
   - https://kiramclean.com/blog/i-need-people

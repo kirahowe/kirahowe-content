@@ -5,6 +5,7 @@ tags:
   - static-websites
   - software
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2020-08-03-why-is-web-development-so-complicated.html
   - /blog/why-are-websites-so-complicated-now
   - https://kiramclean.com/blog/why-are-websites-so-complicated-now/
   - https://kiramclean.com/blog/why-are-websites-so-complicated-now

@@ -4,6 +4,7 @@ tags:
   - complexity
   - immutability
 previously:
+  - /articles/identity-as-value
   - https://priorart.dev/articles/identity-as-value/
   - https://dev.to/kiraemclean/think-of-a-thing-s-identity-as-it-s-value-not-it-s-container-189l
 ---

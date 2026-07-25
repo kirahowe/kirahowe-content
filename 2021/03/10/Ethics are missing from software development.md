@@ -5,6 +5,7 @@ tags:
   - software-engineering
   - best-practices
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2021-03-10-software-ethics.html
   - /blog/ethics-are-missing-from-software-development
   - https://kiramclean.com/blog/ethics-are-missing-from-software-development/
   - https://kiramclean.com/blog/ethics-are-missing-from-software-development

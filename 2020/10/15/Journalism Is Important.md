@@ -4,6 +4,7 @@ tags:
   - pandemic
   - society
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2020-10-15-journalism-is-important.html
   - /blog/journalism-is-important
   - https://kiramclean.com/blog/journalism-is-important/
   - https://kiramclean.com/blog/journalism-is-important

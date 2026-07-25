@@ -4,6 +4,7 @@ tags:
   - complexity
   - papers
 previously:
+  - /articles/how-state-makes-software-complex
   - https://priorart.dev/articles/how-state-makes-software-complex/
   - https://dev.to/kiraemclean/how-state-makes-software-complex-2jja
 ---

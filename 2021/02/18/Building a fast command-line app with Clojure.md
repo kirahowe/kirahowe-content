@@ -6,6 +6,7 @@ tags:
   - graalvm
   - cli
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2021-02-17-fast-cli-with-clojure.html
   - /blog/building-a-fast-command-line-app-with-clojure
   - https://kiramclean.com/blog/building-a-fast-command-line-app-with-clojure/
   - https://kiramclean.com/blog/building-a-fast-command-line-app-with-clojure

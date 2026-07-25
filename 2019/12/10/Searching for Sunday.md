@@ -4,6 +4,7 @@ tags:
   - faith
   - church
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2019-12-10-searching-for-sunday.html
   - /blog/searching-for-sunday
   - https://kiramclean.com/blog/searching-for-sunday/
   - https://kiramclean.com/blog/searching-for-sunday

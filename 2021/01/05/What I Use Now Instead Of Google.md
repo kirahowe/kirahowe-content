@@ -5,6 +5,7 @@ tags:
   - self-hosting
   - privacy
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2021-01-05-what-i-use-now-instead-of-google.html
   - /blog/what-i-use-now-instead-of-google
   - https://kiramclean.com/blog/what-i-use-now-instead-of-google/
   - https://kiramclean.com/blog/what-i-use-now-instead-of-google

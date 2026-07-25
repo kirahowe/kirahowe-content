@@ -4,6 +4,7 @@ tags:
   - church
   - religion
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2020-10-30-christianese-for-outsiders.html
   - /blog/christianese-for-outsiders
   - https://kiramclean.com/blog/christianese-for-outsiders/
   - https://kiramclean.com/blog/christianese-for-outsiders

@@ -4,6 +4,7 @@ tags:
   - reflections
   - year-notes
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2020-12-31-2020-year-in-review.html
   - /blog/2020-year-in-review
   - https://kiramclean.com/blog/2020-year-in-review/
   - https://kiramclean.com/blog/2020-year-in-review

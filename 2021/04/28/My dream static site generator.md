@@ -4,6 +4,7 @@ tags:
   - software
   - static-websites
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2021-04-24-my-dream-static-website-generator.html
   - /blog/my-dream-static-website-generator
   - https://kiramclean.com/blog/my-dream-static-website-generator/
   - https://kiramclean.com/blog/my-dream-static-website-generator

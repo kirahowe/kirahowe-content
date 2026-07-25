@@ -4,6 +4,7 @@ tags:
   - ethics
   - effective-altruism
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2020-09-02-the-life-you-can-save.html
   - /blog/the-life-you-can-save
   - https://kiramclean.com/blog/the-life-you-can-save/
   - https://kiramclean.com/blog/the-life-you-can-save

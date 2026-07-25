@@ -5,6 +5,7 @@ tags:
   - virtual-conferences
   - discord
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2020-12-06-barcamp-philly-2020.html
   - /blog/barcamp-philly-2020
   - https://kiramclean.com/blog/barcamp-philly-2020/
   - https://kiramclean.com/blog/barcamp-philly-2020

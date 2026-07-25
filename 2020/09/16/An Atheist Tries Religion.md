@@ -4,6 +4,7 @@ tags:
   - religion
   - personal
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2020-09-17-an-atheist-tries-religion.html
   - /blog/an-atheist-tries-religion
   - https://kiramclean.com/blog/an-atheist-tries-religion/
   - https://kiramclean.com/blog/an-atheist-tries-religion

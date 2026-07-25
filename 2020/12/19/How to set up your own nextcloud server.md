@@ -5,6 +5,7 @@ tags:
   - nextcloud
   - self-hosting
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2020-12-11-how-to-set-up-your-own-nextcloud-instance.html
   - /blog/how-to-set-up-your-own-nextcloud-server
   - https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server/
   - https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server

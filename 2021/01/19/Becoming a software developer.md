@@ -4,6 +4,7 @@ tags:
   - software-engineering
   - careers
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2021-01-19-becoming-a-software-developer.html
   - /blog/becoming-a-software-developer
   - https://kiramclean.com/blog/becoming-a-software-developer/
   - https://kiramclean.com/blog/becoming-a-software-developer

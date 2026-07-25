@@ -5,6 +5,7 @@ tags:
   - static-websites
   - blogging
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2021-04-24-bad-websites.html
   - /blog/there-is-so-much-low-hanging-fruit-in-web-development
   - https://kiramclean.com/blog/there-is-so-much-low-hanging-fruit-in-web-development/
   - https://kiramclean.com/blog/there-is-so-much-low-hanging-fruit-in-web-development

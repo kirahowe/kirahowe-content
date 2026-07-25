@@ -4,6 +4,7 @@ tags:
   - society
   - personal
 previously:
+  - https://clojurecivitas.org/blog/kirahowe/2021-01-30-america-is-a-scam.html
   - /blog/america-is-a-scam
   - https://kiramclean.com/blog/america-is-a-scam/
   - https://kiramclean.com/blog/america-is-a-scam

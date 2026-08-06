@@ -8,7 +8,6 @@ tags:
   - accessibility
   - design
   - ui
-  - personal
   - blogging
   - static-websites
 slug: accessible-colours

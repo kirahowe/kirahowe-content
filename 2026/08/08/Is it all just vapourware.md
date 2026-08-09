@@ -24,3 +24,5 @@ This only adds more friction between me and my projects, which is literally the 
 The worst part is that the marketing is so overblown. These companies are themselves the best argument against their own sales pitch. If agentic development actually worked the way any of them say it does, then the people selling it would be the primary beneficiaries. They would be shipping the most polished and useful software on the market. Instead I could barely get past the login screen.
 
 The thing is I think ONA is a good idea. I am evidently willing to pay for this kind of tooling. But I want a version that works without lighting twenty dollar bills on fire.
+
+**Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=49235859)**

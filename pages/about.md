@@ -1,9 +1,4 @@
----
-title: About
----
-# Hello! I'm Kira
-
-I've been writing software since 2015, mostly doing full stack web development with a more recent focus on data processing and visualization tools. Clojure is my language of choice. I care about making software simple, reliable, and enjoyable to operate and maintain.
+Hello! I'm Kira. I've been writing software since 2015, mostly doing full stack web development with a more recent focus on data processing and visualization tools. Clojure is my language of choice. I care about making software simple, reliable, and enjoyable to operate and maintain.
 
 If I could afford to work on open source full time I would, but I currently work full time for Seeq.
 

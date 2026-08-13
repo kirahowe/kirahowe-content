@@ -5,7 +5,7 @@ I consider tracking what people do around the internet to be virtual stalking an
 I use [umami](https://umami.is), a privacy-conscious analytics platform, to track
 traffic on this website so that I can tell which posts are popular and where
 traffic is coming from. Umami does not use cookies and does not store any identifiable information about visitors. I
-also have [umami configured]() to honour [Do Not Track](https://docs.umami.is/docs/tracker-configuration#data-do-not-track), for whatever that's worth.
+also have [umami configured](https://github.com/kirahowe/website/blob/30f1b67b0354f95425b2b8501b017ed248429d9a/src/site/views/layout.clj#L61) to honour [Do Not Track](https://docs.umami.is/docs/tracker-configuration#data-do-not-track), for whatever that's worth.
 
 ## Newsletter
 

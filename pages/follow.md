@@ -8,6 +8,24 @@ below to receive a weekly email of everything that I wrote that week. Replies go
 read them all.
 
 I will never send you spam, and you can unsubscribe anytime. I have a more
-detailed explanation of [how I treat privacy](/privacy) here if you'd like to
+detailed explanation of [how I treat privacy here](/privacy) if you'd like to
 learn more before signing up.
+
+## Atom feeds
+
+There is one main feed for everything: [`https://kirahowe.com/feed.xml`](https://kirahowe.com/feed.xml).
+
+And there are separate feeds for each type of entry I write, currently:
+
+- **Posts**: [`https://kirahowe.com/posts/feed.xml`](https://kirahowe.com/posts/feed.xml)
+- **Notes**: [`https://kirahowe.com/notes/feed.xml`](https://kirahowe.com/notes/feed.xml)
+- **Links**: [`https://kirahowe.com/links/feed.xml`](https://kirahowe.com/links/feed.xml)
+- **Quotes**: [`https://kirahowe.com/quotes/feed.xml`](https://kirahowe.com/quotes/feed.xml)
+- **Tools**: [`https://kirahowe.com/tools/feed.xml`](https://kirahowe.com/tools/feed.xml)
+
+Every [tag](https://kirahowe.com/tags) also has its own dedicated feed. They
+live at `https://kirahowe.com/tags/<tag-name>/feed.xml`, for example to
+subscribe to posts only about Clojure, you can subscribe to this feed:
+
+[`https://kirahowe.com/tags/clojure/feed.xml`](https://kirahowe.com/tags/clojure/feed.xml)
 

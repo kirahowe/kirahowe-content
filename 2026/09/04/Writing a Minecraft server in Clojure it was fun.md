@@ -2,6 +2,7 @@
 type: link
 title: "Writing a Minecraft server in Clojure: it was fun"
 date: 2026-09-04
+published: 2026-09-04T14:44:40-03:00
 link: https://www.reddit.com/r/Clojure/comments/1w3qxzt/writing_a_minecraft_server_in_clojure_it_was_fun/
 via: https://lnkd.in/p/gB7Wc23u
 tags:

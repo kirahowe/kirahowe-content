@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-13
+published: 2026-08-13T19:50:46-03:00
 link: https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text
 via: https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/
 tags:

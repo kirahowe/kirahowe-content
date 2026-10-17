@@ -1,6 +1,7 @@
 ---
 type: release
 date: 2026-10-15
+published: 2026-10-15T22:00:32-04:00
 link: https://github.com/kirahowe/slk/releases/tag/v0.29.0
 tags:
   - slk

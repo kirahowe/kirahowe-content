@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-11
+published: 2026-08-11T17:33:23-03:00
 link: https://ckarchive.com/b/38uphkh2pkl07i37xxl75f455oo0da7hrz054
 via: https://www.oliverburkeman.com/the-imperfectionist
 tags:

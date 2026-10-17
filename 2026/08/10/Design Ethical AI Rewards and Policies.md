@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-10
+published: 2026-08-10T20:08:11-03:00
 link: https://www.coursera.org/learn/building-and-optimizing-ai-agent-workflows-1#modules
 via: https://www.coursera.org/professional-certificates/master-agentic-ai---core-principles-and-real-world-applications
 tags:

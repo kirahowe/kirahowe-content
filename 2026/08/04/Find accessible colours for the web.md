@@ -1,6 +1,7 @@
 ---
 type: tool
 date: 2026-08-04
+published: 2026-08-05T23:18:24-03:00
 link: https://tools.kirahowe.com/contrast
 source: https://github.com/kirahowe/tools/tree/main/tools/contrast
 tags:

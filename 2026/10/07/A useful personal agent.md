@@ -1,5 +1,6 @@
 ---
 date: 2026-10-07
+published: 2026-10-07T22:24:45-03:00
 tags:
   - lethal-trifecta
   - ai

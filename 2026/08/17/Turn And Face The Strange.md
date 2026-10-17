@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-17
+published: 2026-08-19T23:17:27-03:00
 link: https://fly.io/blog/kurt-scott-money-sprites/
 via: 
 tags:

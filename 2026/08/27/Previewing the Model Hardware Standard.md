@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-27
+published: 2026-08-28T14:40:20-03:00
 link: https://www.anthropic.com/news/model-hardware-standard-research-preview
 via: https://news.ycombinator.com/item?id=49468834
 tags:

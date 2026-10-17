@@ -2,6 +2,7 @@
 type: link
 title: "Unbounded: Progress, Economic Growth, and Society"
 date: 2026-09-25
+published: 2026-09-25T23:50:27-03:00
 link: https://clojurecivitas.org/economics/wealth_distribution/unbounded/u0_introduction.html
 via: https://lnkd.in/p/gZWWwbxZ
 tags:

@@ -2,6 +2,7 @@
 type: link
 title: "Eval-driven development: Lessons from evaluating GenAI at scale"
 date: 2026-07-31
+published: 2026-08-10T21:14:48-03:00
 link: https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788
 via: https://www.linkedin.com/posts/yi-li-755a6b24_great-writeup-from-our-team-on-treating-eval-share-7488119676556759040-IMik
 tags:

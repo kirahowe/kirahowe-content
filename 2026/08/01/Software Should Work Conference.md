@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-01
+published: 2026-08-09T23:20:39-03:00
 link: https://softwareshould.work/
 via: https://raymyers.org/post/why-linus-is-right-and-ai-is-wrong/
 tags:

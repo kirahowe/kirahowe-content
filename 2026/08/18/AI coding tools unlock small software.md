@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-18
+published: 2026-08-19T23:01:15-03:00
 link: https://www.fastcompany.com/91590966/ai-coding-tools-unlock-small-software
 via: https://lnkd.in/p/gT5Z-rGp
 tags:

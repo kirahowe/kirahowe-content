@@ -1,6 +1,7 @@
 ---
 title: What would a useful agent be like?
 date: 2026-10-06
+published: 2026-10-06T10:05:15-03:00
 tags:
   - ai-agents
   - personal-agents

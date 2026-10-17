@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-13
+published: 2026-08-15T15:23:44-03:00
 link: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html
 via: https://news.ycombinator.com/item?id=49271994
 tags:

@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-16
+published: 2026-08-16T14:56:36-03:00
 link: https://raymyers.org/post/reading-code-considered-helpful/
 via: https://www.linkedin.com/posts/cadrlife_reading-code-considered-helpful-activity-7494428533579235328-AyRp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_uhGwBvW4THVkIMyB0uo8EM48Q64YZvRw
 tags:

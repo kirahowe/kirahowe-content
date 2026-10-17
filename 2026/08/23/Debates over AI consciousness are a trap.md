@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-23
+published: 2026-08-24T12:12:49-03:00
 link: https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/
 via: https://lnkd.in/p/gHdvdrEK
 tags:

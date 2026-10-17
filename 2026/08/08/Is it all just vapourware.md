@@ -1,6 +1,7 @@
 ---
 title: Is it all just vapourware?
 date: 2026-08-08
+published: 2026-08-09T13:54:32-03:00
 tags:
   - ai-hype
   - ai

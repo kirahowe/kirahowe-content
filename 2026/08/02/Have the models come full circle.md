@@ -1,6 +1,7 @@
 ---
 title: Have the models come full circle?
 date: 2026-08-02
+published: 2026-08-09T17:01:24-03:00
 tags:
   - llms
   - ai-agents

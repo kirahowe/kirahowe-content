@@ -1,5 +1,6 @@
 ---
 date: 2026-09-07
+published: 2026-09-07T22:22:49-03:00
 tags:
   - ai
   - software-engineering

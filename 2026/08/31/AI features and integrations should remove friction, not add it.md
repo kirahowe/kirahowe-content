@@ -2,6 +2,7 @@
 type: note
 title: AI "features" and integrations should remove friction, not add it
 date: 2026-08-31
+published: 2026-08-31T16:19:57-03:00
 tags:
   - ai
   - product-development

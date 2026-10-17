@@ -1,6 +1,7 @@
 ---
 type: link
 date: 2026-08-09
+published: 2026-08-09T23:16:12-03:00
 link: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers
 via: https://www.linkedin.com/posts/kylemickey_i-opened-this-link-inclined-to-disagree-share-7491916545841938432-CDpH
 tags:

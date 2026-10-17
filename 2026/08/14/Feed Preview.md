@@ -1,6 +1,7 @@
 ---
 type: tool
 date: 2026-08-14
+published: 2026-08-15T13:11:44-03:00
 link: https://tools.kirahowe.com/feeds/
 source: https://github.com/kirahowe/tools/tree/main/tools/feeds
 tags:

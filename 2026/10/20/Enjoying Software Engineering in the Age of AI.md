@@ -13,6 +13,8 @@ tags:
   - accountability
 ---
 
+> This essay was originally written for and submitted to the [Pragmatic Engineer essay contest](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/) in October 2026.
+
 At some point earlier this year I realized I was not enjoying work the way I used to. I'm the kind of person who likes solving problems for a living. On a good day I might even go so far as to say I *enjoy* the work of getting to the bottom of an issue and fixing it from first principles. At some other point also earlier this year, AI tools crossed an invisible threshold and became genuinely useful to me at work. I will admit that I was one of those software people who was very unimpressed by ChatGPT in the early days, and I found the hype and excitement around LLMs really insufferable back then. I still find the hype, and now doomerism, really overblown and annoying, but have since come around to the reality that these tools are in fact very useful and have changed the nature of our work forever.
 
 Once it became obvious that these tools were becoming essential to how I work and not going anywhere, I decided I had to either accept my AI-centric fate and learn how to use them well, or leave the industry. I've come to believe that being a software engineer but resisting the increasing spread of AI tooling and applications is futile, and a recipe for misery.

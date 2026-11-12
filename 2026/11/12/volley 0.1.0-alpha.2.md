@@ -5,6 +5,12 @@ published: 2026-11-12T22:41:22-04:00
 link: https://github.com/kirahowe/volley/releases/tag/v0.1.0-alpha.2
 tags:
   - volley
+  - release
+  - clojure
+  - testing
+  - developer-tools
+  - oss-updates
+  - performance
 ---
 
 [volley](https://github.com/kirahowe/volley) 0.1.0-alpha.2 is out. volley is my test runner for `clojure.test` on babashka and the JVM. It runs test namespaces in parallel worker processes and reads Kaocha's `tests.edn` and flags, so a project that runs Kaocha today can switch by changing one command.
